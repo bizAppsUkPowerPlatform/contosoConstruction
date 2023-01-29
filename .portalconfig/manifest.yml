@@ -1,0 +1,26 @@
+adx_webfile:
+- RecordId: 1b283369-7e1e-ed11-b83e-6045bd0ea8e5
+  DisplayName: hero-carousel-5.jpg
+  CheckSum: 
+  IsDeleted: true
+- RecordId: 60afdc4b-7e1e-ed11-b83e-6045bd0ea8e5
+  DisplayName: hero-carousel-4.jpg
+  CheckSum: 
+  IsDeleted: true
+- RecordId: 7d95f6c8-a102-ed11-82e6-6045bd0ea8e5
+  DisplayName: bootstrap.min.css
+  CheckSum: 
+  IsDeleted: true
+annotation:
+- RecordId: a8329d09-1d11-83cb-91ab-ee1b8a23b4de
+  DisplayName: hero-carousel-5.jpg
+  CheckSum: 
+  IsDeleted: true
+- RecordId: a0514a6e-b6f3-4253-a236-059d6dfda605
+  DisplayName: hero-carousel-4.jpg
+  CheckSum: 
+  IsDeleted: true
+- RecordId: a108f6ce-a102-ed11-82e6-6045bd0ea8e5
+  DisplayName: bootstrap.min.css
+  CheckSum: 
+  IsDeleted: true
