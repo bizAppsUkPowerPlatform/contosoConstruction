@@ -63,10 +63,12 @@
   adx_displayimageonly: false
   adx_displayorder: 3
   adx_displaypagechildlinks: false
-  adx_name: Content Page 1
+  adx_name: Content Page 1-deleted
   adx_openinnewwindow: false
   adx_pageid: 35c3a9a6-b7d5-662c-c049-6b0afc05930c
   adx_publishingstateid: 3cf35c54-f355-ed11-9562-6045bd0ea8e5
   adx_robotsfollowlink: true
   adx_weblinkid: f7dc9d23-f253-22e8-619e-140cf424958b
   adx_weblinksetid: 7df35c54-f355-ed11-9562-6045bd0ea8e5
+  statecode: 1
+  statuscode: 2

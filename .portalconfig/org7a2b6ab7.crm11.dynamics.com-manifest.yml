@@ -31,6 +31,14 @@ adx_contentsnippet:
   DisplayName: Search/Title
   CheckSum: 673ea6507512840c7a994aa97ef3bbfbfd62207b40df68af214fccc728e085e4
   IsDeleted: false
+- RecordId: 1005ad84-30a0-ed11-aad1-6045bd0ea8e5
+  DisplayName: Header Text or Logo
+  CheckSum: b2d164ffdcbdb2d91fc0cc233525d954c327252d01643471c782d9a2ee0b5019
+  IsDeleted: false
+- RecordId: 0ac40d9c-30a0-ed11-aad1-6045bd0ea8e5
+  DisplayName: Footer Site Name
+  CheckSum: b13a9626b932f7daf91ef9bb17992cc26e3fd1c4376e8a66bb98afe3435c4b5a
+  IsDeleted: false
 adx_entityform:
 - RecordId: b9cd0fdb-1df5-4ba3-96a9-194795b5ade0
   DisplayName: Account
@@ -342,6 +350,10 @@ adx_urlhistory:
   CheckSum: e9e20e0590285b75ebc8431fb9727c0592fcd6a188f0fbd251f62d1cb2ffb461
   IsDeleted: false
 adx_webfile:
+- RecordId: 1e60f78e-29a0-ed11-aad1-6045bd0ea8e5
+  DisplayName: favicon.ico
+  CheckSum: da352a49262df67f50e54185bd8685fede8c950b6d624e9abbe996f7e7812112
+  IsDeleted: false
 - RecordId: e038ab50-993d-ed11-bba3-6045bd0ea8e5
   DisplayName: bootstrap-icons.woff
   CheckSum: b06b4416bbf1873b71359e2f4d6a1a793a7aa037f23a2a62561cb209f491b3cc
@@ -648,8 +660,8 @@ adx_weblink:
   CheckSum: 74cffaa9f053c5806fca2c29bcb52bdd7e7d4cdacb0acc0e0b821e54cf4ce2b5
   IsDeleted: false
 - RecordId: f7dc9d23-f253-22e8-619e-140cf424958b
-  DisplayName: Content Page 1
-  CheckSum: 12092c5e265f540b593e712ee9df34d197fa5291f2f04b7fbc0f0c37f77cfa44
+  DisplayName: Content Page 1-deleted
+  CheckSum: a259e7e5765117ef10424f3c84c459d9da762b7fdfdf5978794c8ad2f1089f57
   IsDeleted: false
 - RecordId: 7cf35c54-f355-ed11-9562-6045bd0ea8e5
   DisplayName: Profile
@@ -674,8 +686,8 @@ adx_webpage:
   CheckSum: cac57ba74fd239607ddc5715c20ac1db216eac0a5750b712371b7f53cd1cec86
   IsDeleted: false
 - RecordId: 35c3a9a6-b7d5-662c-c049-6b0afc05930c
-  DisplayName: Content Page 1
-  CheckSum: 6383c6f402722484f3f3551a7f5feac0fe5afa5894c011aa2bdc5a379d81d50b
+  DisplayName: Content Page 1-deleted
+  CheckSum: 2b3417bf60f3b28370c1b14907e0f44b5ca8a6d288fcc6df26a33f0289a65a89
   IsDeleted: false
 - RecordId: 56d7b96f-3f38-479f-a14f-e225b386d197
   DisplayName: DWF-deleted
@@ -707,15 +719,15 @@ adx_webpage:
   IsDeleted: false
 - RecordId: 80f35c54-f355-ed11-9562-6045bd0ea8e5
   DisplayName: Access Denied
-  CheckSum: 86025c00da3b20fdad1d3d8b545340af7f73d50b88a75384d1fbb10a05606328
+  CheckSum: 1f98130907a4e827bfcf3fcbeb7e8148e5bbf5ac55dbc969aca32ee0583f3661
   IsDeleted: false
 - RecordId: 1166c503-14dc-49cf-1a76-32bf09efc80c
   DisplayName: Contact us
   CheckSum: 4f535bb5ca8b2de6c54499d598c1b5a774fab2e6decdaaee68be38305a89721b
   IsDeleted: false
 - RecordId: 86e1bf1a-4141-0f36-d21a-5c182073d9a4
-  DisplayName: Content Page 1
-  CheckSum: b499dcf8d71eb5e2c2c4a5d22af54a0e384b070da782e9df0a2528b5f28ee26c
+  DisplayName: Content Page 1-deleted
+  CheckSum: a894cad4661c36716f35a58ce633e09f31ffa08429e27f25da95833057924cc5
   IsDeleted: false
 - RecordId: 54de7594-8cfc-883e-dcb7-c643d75584c2
   DisplayName: DWF-deleted
@@ -727,7 +739,7 @@ adx_webpage:
   IsDeleted: false
 - RecordId: 83f35c54-f355-ed11-9562-6045bd0ea8e5
   DisplayName: Page Not Found
-  CheckSum: dd5285c671682c40c34e8bd3cda323b12931a72db44805290bb4b8e24337e7cb
+  CheckSum: dda1178af9c05d720e169d52266a97925b214d680cebb1b64b094e61ea3731a8
   IsDeleted: false
 - RecordId: cdb27c67-3865-de99-c0e1-8718e392d76e
   DisplayName: privacy-deleted
@@ -806,15 +818,15 @@ adx_webtemplate:
   IsDeleted: false
 - RecordId: 95f35c54-f355-ed11-9562-6045bd0ea8e5
   DisplayName: Footer
-  CheckSum: 8ac44e6cda8de3aa13a6a97f99699ee0d9a564221f24d2868a29811de9cb25ea
+  CheckSum: bc9257db23a73f6a5512ad001901106e32486b32e53e5f3a392efa2f87ec947a
   IsDeleted: false
 - RecordId: 99f35c54-f355-ed11-9562-6045bd0ea8e5
   DisplayName: Header
-  CheckSum: bfc0047f377fcdfd92a76ad7fbf28c4477328135a597ed6e20872552304dbd13
+  CheckSum: 16c8542f27a9873a69e98219b54676c60de0ff7a2dbd99a79ce50cf4637d618b
   IsDeleted: false
 - RecordId: e04bed51-f655-ed11-9562-6045bd0ea8e5
   DisplayName: Home
-  CheckSum: cef37effb9b48344f6821e235f904ed97217ddc66cd4a7e5858057e041c58c20
+  CheckSum: 8fb0f758e3edd7760b558d0ed46aa9cfb151d2111a2d55291017d1e7ccc90552
   IsDeleted: false
 - RecordId: 9af35c54-f355-ed11-9562-6045bd0ea8e5
   DisplayName: Layout 2 Column Wide Left
@@ -841,6 +853,10 @@ adx_webtemplate:
   CheckSum: 7c564d2f3ee56e0d669eb974dddd6b4dcec1d492d2857471dbfbecfb9fba409c
   IsDeleted: false
 annotation:
+- RecordId: abc22d76-2743-4c99-8853-3ff8002a2a02
+  DisplayName: favicon.ico
+  CheckSum: 8089d204e5b394ac8dc90599c2372f17ef432bf2739b75f039809355b19c27e6
+  IsDeleted: false
 - RecordId: 861dd346-3c44-c7f8-834e-747f21bf499c
   DisplayName: bootstrap-icons.woff
   CheckSum: c733b4d25bc7d385023eba889e4af1a1ede21468c8063673c8ac94bbafa0c747
